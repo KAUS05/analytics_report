@@ -1,0 +1,17 @@
+{
+  "name": "analytics_report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sayedabdulkarim.github.io/analytics_report",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
